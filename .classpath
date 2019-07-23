@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Projects/ICC/Automation/workspace/smartclient/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/ICC/Automation/workspace/smartclient/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/ICC/Automation/workspace/smartclient/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/ICC/Automation/workspace/smartclient/lib/filterbuilder.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/ICC/Automation/workspace/smartclient/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/ICC/Automation/workspace/smartclient/lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/ICC/Automation/workspace/smartclient/lib/htmllexer.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/ICC/Automation/workspace/smartclient/lib/htmlparser.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/ICC/Automation/workspace/smartclient/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/ICC/Automation/workspace/smartclient/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/ICC/Automation/workspace/smartclient/lib/isomorphic_webdriver.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/ICC/Automation/workspace/smartclient/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/ICC/Automation/workspace/smartclient/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/ICC/Automation/workspace/smartclient/lib/json-20080701.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/ICC/Automation/workspace/smartclient/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/ICC/Automation/workspace/smartclient/lib/sax2.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/ICC/Automation/workspace/smartclient/lib/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/ICC/Automation/workspace/smartclient/lib/selenium-server-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/ICC/Automation/workspace/smartclient/lib/thumbelina.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
